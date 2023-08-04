@@ -245,12 +245,12 @@ nav ul li a:hover {
   }
 }
 
-@media (max-width: 390px) {
+/* @media (max-width: 390px) {
   .recipe-search-result {
-    width: 100%;
+    width: 90%;
   }
   .image img {
     border-radius: 0;
     box-shadow: none;
   }
-}
+} */
