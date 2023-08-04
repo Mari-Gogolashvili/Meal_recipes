@@ -84,7 +84,3 @@ arrowIcons.forEach((icon) => {
 });
 
 
-//gsghs
-//!askjdak
-//*sjbdkwjd
-//?sjqqjkq
